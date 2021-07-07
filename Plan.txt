@@ -1,11 +1,17 @@
-Learn JS
+Learn JS (implementation)
 
-Learn React.JS
+Learn React.JS (hold)
 
-Learn Electronjs (Access files)
+Learn Electronjs (Access files) (later (integration))
 
-Design using Figma
+Design using Figma (Fluent Design)
 
 Start with (Play/Pause Offline Music)
 
 Playlist
+
+Functionalities:
+Load song, Playlist
+Play song, next, prev, Volume
+
+Inspirration (Spotify, soudcloud, youtube music)
